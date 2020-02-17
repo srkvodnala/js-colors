@@ -1,5 +1,17 @@
 footer {
-  padding-top: 1em;
-  padding-bottom: 1em;
-  background-color: aliceblue;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: aliceblue;
+}
+
+#red-label {
+    color: red;
+}
+
+#green-label {
+    color: green;
+}
+
+#blue-label {
+    color: blue;
 }
